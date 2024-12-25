@@ -1,0 +1,16 @@
+{
+    "name": "phtmx/landing",
+    "description": "Project for landing page phtmx.com",
+    "type": "project",
+    "require": {
+        "phtmx/phtmx": "^0.1.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Martin Krizan",
+            "email": "mnohosten@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
